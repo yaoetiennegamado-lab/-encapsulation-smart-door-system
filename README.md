@@ -1,4 +1,4 @@
-# encapsulation-smart-door-system
+# Encapsulation Smart Door System
 
 A secure smart door access solution designed for UMaT administrative staff, utilizing specialized access codes. 
 
